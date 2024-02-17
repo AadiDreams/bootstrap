@@ -1,3 +1,3 @@
 # bootstrap
-* Bootstrap Website: https://getbootstrap.com
+* Reference: https://getbootstrap.com
 * Output: https://aadidreams.github.io/bootstrap
